@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: hunghocweb
 - Repo bài nộp (URL): https://github.com/hunghocweb/K5-L23-DAY08-2A202603097-NguyenVanHung-AIPrelabel
-- Commit chốt bài (hash): (điền sau khi commit và push)
+- Commit chốt bài (hash): d9bef9c
 - Máy: Windows; PyTorch CPU-only (CUDA không khả dụng)
 - CVAT (Docker): v2.74.1
 
