@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,25,"ước tính, chưa bấm giờ; gán tay trên CVAT, 56 đối tượng"
+batch_review,24,120,"theo ghi nhận của học viên, chưa bấm giờ từng giai đoạn"

@@ -1,0 +1,10 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,toi,"#17 three_wheeler đúng (đã nhìn lại bằng mắt); không có lỗi."
+img_006.jpg,80,khong,toi,"Box #80 motorbike khoanh đúng chiếc xe thấy rõ; không có lỗi (đã nhìn lại bằng mắt)."
+img_006.jpg,,khong,toi,"Các xe đậu phía sau #80 khó nhận diện nên cố ý không khoanh; không tính là lỗi (đã nhìn lại bằng mắt)."
+img_013.jpg,,khong,toi,"Box three_wheeler #119, người lái #116 và các xe phía sau khớp vật; chưa thấy lỗi."
+img_014.jpg,140,khong,toi,"Box #140 motorbike khoanh đúng vùng; không có lỗi (đã nhìn lại bằng mắt)."
+img_017.jpg,,khong,toi,"ba box three_wheeler #142, #144, #146 khớp ba tuk-tuk; box gốc của bẫy bao hai xe và đã được tách đúng."
+img_018.jpg,,khong,toi," ảnh rất dày (58 đối tượng) nên không đảm bảo kiểm từng box. Chưa thấy lỗi rõ. #183 bus (minibus) hợp quy tắc; #169 là person, #190 và #197 là motorbike (đã sửa trong batch_reviewed.json cho khớp CVAT)."
+img_021.jpg,,khong,toi,"ảnh dày nên không đảm bảo kiểm từng box. Ô tô #215, #222, #236, #237 và bus #213 khớp; xe máy bị che phía sau có thể thiếu nhưng không xác nhận được."
+img_035.jpg,,khong,toi,"Theo lần rà soát 24 ảnh của tôi: chưa thấy lỗi (bẫy loose #469 đã bắt được); chưa xem lại bằng ảnh overlay QC."
